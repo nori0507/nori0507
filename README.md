@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there, I'm [Rei Chikyu]! 👋
 
-<!--
-**nori0507/nori0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student learning web development and excited about building applications that solve real problems.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, Python, HTML, CSS, SQL
+- **Currently Learning**: React, Node.js, REST API, Express.js, JSONWebToken (JWT), Sequelize (ORM), Bcrypt, Dotenv
+- **Tools**: VS Code, Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Currently Working On
+- Building responsive websites in my web development course
+- Creating a personal portfolio
+- Learning backend development to get skills to support my website
+
+## 📫 Let's Connect
+- **LinkedIn**: [Rei Chikyu](https://www.linkedin.com/in/rei-chikyu-0b48232b4/)
+- **Email**: chikyu.rei@ic.edu
+
+## 🚀 Featured Projects
+
+### School Website
+Creating a website to introduce about Japanese food
+- **Tech**: JavaScript, HTML/CSS
+- [View Project](https://github.com/nori0507/japanese_food.git)
+
+### Food Delivery REST API
+Creating a REST API for food delivery service
+- **Tech**: Node.js, Express.js, Sequelize (ORM), JSONWebToken (JWT), Bcrypt, Dotenv, Postman
+- [View Project](https://github.com/nori0507/final-food.git)
+
+
+
+
+
+
