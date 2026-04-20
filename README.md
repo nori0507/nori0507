@@ -1,4 +1,4 @@
-# Hey there, I'm [Rei Chikyu]! 👋
+# Hey there, I'm Rei Chikyu! 👋
 
 I'm a computer science student learning web development and excited about building applications that solve real problems.
 
