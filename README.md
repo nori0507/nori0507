@@ -18,8 +18,8 @@ I'm a computer science student learning web development and excited about buildi
 
 ## 🚀 Featured Projects
 
-### School Website
-Creating a website to introduce about Japanese food
+### Japanese Food Website
+Creating a website to introduce about Japanese food and its history
 - **Tech**: JavaScript, HTML/CSS
 - [View Project](https://github.com/nori0507/japanese_food.git)
 
